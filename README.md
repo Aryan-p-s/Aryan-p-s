@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Aryan Gupta:
 Hi, Myself Aryan Gupta <br>I'm a Python Developer and Web Developer with hands-on experience in building web applications and real-world projects. I have successfully completed my internship at The Entrepreneurship Network, where I worked on backend logic, APIs, and web development tasks.<br><br>I enjoy solving problems, learning new technologies, and building practical solutions. I’m currently improving my skills in Python frameworks, automation, and full-stack development.<br><br>🔭 I Complete my Internship in The Entrepreneurship Network <br>👯 As a Python Developer<br>🤝 I’m currently looking For a Job<br>🌱 I’m looking for Python Developer or Web Developer<br>💬 Ask me about Python, Django, web development, REST APIs, and automation.<br>⚡ I'm a Quick Learner, Interested in Coding and developing, 
 
 
